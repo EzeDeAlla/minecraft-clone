@@ -46,7 +46,7 @@ export const TextureSelector = () => {
     return (
         <div className='texture-selector'>
             {
-                Object
+                Object 
                 .entries(images)
                 .map(([imgKey, img]) => {
                     return (
