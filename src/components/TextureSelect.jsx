@@ -43,7 +43,7 @@ export const TextureSelector = () => {
         }
     }, [dirt, grass, glass, wood])
 
-    return (
+    return ( 
         <div className='texture-selector'>
             {
                 Object
